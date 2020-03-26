@@ -1,4 +1,7 @@
 body {
   background-color: #c0c0c0;  
-  font-family: san-serif;
+  font-family: sans-serif;
+}
+h1 {
+ color: purple;
 }

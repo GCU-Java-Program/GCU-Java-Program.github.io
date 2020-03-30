@@ -1,0 +1,25 @@
+ @charset "UTF-8";
+body {
+  /* Change the font for the entire page */
+	font-family: Helvetica, Arial, "sans-serif";
+  /* Set the background color to light purple */
+	background-color: #E8D6ED;
+  /* Add some space to the left side */
+	margin-left: 20px;
+}
+
+h1{
+  /* Center all <h1></h1> tags */
+  text-align: center;
+}
+
+h2{
+  /* Center all <h2></h2> tags */
+	text-align: center;
+}
+
+img {
+ /* Change all images on the page */
+ float:right; 
+ height:100;
+ }
